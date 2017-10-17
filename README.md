@@ -3,4 +3,4 @@
 Application built using React-Redux that helps you to keep track of your skiing days.
 
 Users can set a goal
-Users can set whether was a powder and/or back country days
+Users can choose whether was a powder and/or back country days
